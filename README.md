@@ -65,3 +65,7 @@
 ### for writing to a file, printing contents of file and doing word count one after the other in piping and redirection continously, use this command instead " echo data | tee filename | wc "
 
 ### Maximum number of commands in piping is 256
+
+## spec-15
+
+### fg command is not working as expected
